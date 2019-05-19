@@ -1,0 +1,12 @@
+camel:
+  component:
+    rabbitmq:
+      hostname: 68.183.114.197
+      username: sumana
+      password: santex1017
+      port-number: 5672
+      auto-ack: true
+      
+logging:
+  level:
+    com.accenture: DEBUG
